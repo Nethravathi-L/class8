@@ -1,4 +1,4 @@
-C++ operations
+C++ operators
 
 1.Arithmetic Operators (ADD (+) ,SUB (-) ,MUL (*) ,DIV (/) ,MOD (%) ,INCREMENT (++) ,DECREMENT (--))
 
